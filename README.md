@@ -46,7 +46,7 @@ src/DungeonEscape/
 1. Clone the repository:
 
    ```
-   git clone https://github.com/your-username/DungeonEscape.git
+   git clone [https://github.com/vignesh28102006/DungeonEscape]
    ```
 
 2. Open the project in an IDE like Eclipse or IntelliJ
